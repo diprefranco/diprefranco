@@ -13,6 +13,9 @@ Code is a way to express those ideas.<br />
 We are constantly focused on delivering quality solutions and quality code, which is great and necessary.<br />
 However, we must not lose sight of the fact that, at a higher level, we are building ideas, solutions to problems.
 
+Also, I make jokes when I'm uncomfortable.
+[Chandler Bing's Uncle Bada Joke](https://github.com/diprefranco/diprefranco/blob/main-readme-syntax/files/chandler-uncle-bada-joke.jpg)
+
 ## Hobbies
 
 Beyond coding, I enjoy:
