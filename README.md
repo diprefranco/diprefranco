@@ -6,7 +6,10 @@ A passionate **Full Stack Developer** with expertise in:
 - **Backend**: C# .NET, Entity Framework, Web APIs.
 - **Databases**: PostgreSQL, SQL Server.
 
-For me, software development is all about ideas. Software is ideas in action—a way to make concepts come alive. Code is more than syntax; it’s a medium to express ideas and solve problems. While delivering quality code and solutions is vital, it’s equally important to remember that, at its core, we are building ideas to address real-world challenges.
+I love discussing ideas, and software is ideas running.
+Code is a way to express ideas.
+We are constantly focused on delivering quality solutions, quality code. That’s great and also necessary.
+But we cannot lose focus on that at a higher level we are building ideas, solutions to problems.
 
 ## Hobbies
 
