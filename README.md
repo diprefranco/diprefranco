@@ -6,10 +6,10 @@ A passionate **Full Stack Developer** with expertise in:
 - **Backend**: C# .NET, Entity Framework, Web APIs.
 - **Databases**: PostgreSQL, SQL Server.
 
-I love discussing ideas, and software is ideas running.
-Code is a way to express ideas.
-We are constantly focused on delivering quality solutions, quality code. That’s great and also necessary.
-But we cannot lose focus on that at a higher level we are building ideas, solutions to problems.
+I love discussing ideas, and software is ideas in action.<br />
+Code is a way to express those ideas.<br />
+We are constantly focused on delivering quality solutions and quality code, which is great and necessary.<br />
+However, we must not lose sight of the fact that, at a higher level, we are building ideas, solutions to problems.
 
 ## Hobbies
 
