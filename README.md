@@ -1,9 +1,18 @@
-- 👋 Hi, I’m Franco
-- 👀 I’m interested in building online tools or websites that can connect people in different ways
-- 🌱 I’m currently working as a fullstack developer with Angular and .Net
-- 💞️ I’m currently working on Languages-App: an app to keep track new words you learn in a language!
-      https://github.com/diprefranco/languages-app-front
+# Hi, I'm Franco! 👋
+# ![Waterfall](https://github.com/diprefranco/diprefranco/blob/main-readme-syntax/files/waterfall.jpg)
 
-<!-- - 💞️ I’m currently learning ReactJS -->
-<!-- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+A passionate **Full Stack Developer** with expertise in:
+- **Frontend**: Angular, HTML, CSS, JavaScript/TypeScript.
+- **Backend**: C# .NET, Entity Framework, Web APIs.
+- **Databases**: PostgreSQL, SQL Server.
+
+For me, software development is all about ideas. Software is ideas in action—a way to make concepts come alive. Code is more than syntax; it’s a medium to express ideas and solve problems. While delivering quality code and solutions is vital, it’s equally important to remember that, at its core, we are building ideas to address real-world challenges.
+
+## Hobbies
+
+Beyond coding, I enjoy:
+- 🏃‍♂️ Running and hiking.
+- 🎶 Music and films.
+- 📚 Reading, learning languages (English, Italian, Spanish).
+- 🛶 Kayaking and exploring nature.
+- ✈️ Traveling.
