@@ -1,4 +1,4 @@
-# ![Waterfall](https://github.com/diprefranco/diprefranco/blob/main/files/waterfall.jpg)
+![Waterfall](https://github.com/diprefranco/diprefranco/blob/main/files/waterfall.jpg)
 # Hi, I'm Franco! 👋
 
 A passionate **Full Stack Developer** with expertise in:
