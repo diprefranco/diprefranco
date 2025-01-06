@@ -6,7 +6,7 @@ A passionate **Full Stack Developer** with expertise in:
 - **Backend**: C# .NET, Entity Framework, Web APIs.
 - **Databases**: PostgreSQL, SQL Server.
 
-## Working with me
+## About Me
 
 I love discussing ideas, and software is ideas in action.<br />
 Code is a way to express those ideas.<br />
